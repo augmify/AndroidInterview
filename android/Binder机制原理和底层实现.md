@@ -8,3 +8,8 @@
 [Binder机制4---Framework层](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0319/2622.html)
 
 [Binder机制5--- Binder实现进程管理服务示例](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0319/2623.html)
+
+
+[简单明了，彻底地理解Binder](http://blog.csdn.net/huachao1001/article/details/51504469)
+
+[Android中的Binder学习笔记](http://blog.csdn.net/huachao1001/article/details/43197129)
