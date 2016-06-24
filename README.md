@@ -56,8 +56,6 @@
 
 * [Android5.0、6.0、7.0新特性](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android5.0%E3%80%816.0%E3%80%817.0%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
-* [Android中弱引用与软引用的应用场景](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android%E4%B8%AD%E5%BC%B1%E5%BC%95%E7%94%A8%E4%B8%8E%E8%BD%AF%E5%BC%95%E7%94%A8%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.md)
-
 * [Android长连接，怎么处理心跳机制](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android%E9%95%BF%E8%BF%9E%E6%8E%A5%EF%BC%8C%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E5%BF%83%E8%B7%B3%E6%9C%BA%E5%88%B6.md)
 
 * [Asset目录与res目录的区别](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Asset%E7%9B%AE%E5%BD%95%E4%B8%8Eres%E7%9B%AE%E5%BD%95%E7%9A%84%E5%8C%BA%E5%88%AB.md)
